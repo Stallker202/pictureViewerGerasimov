@@ -1,0 +1,11 @@
+C:\Users\ilger\source\repos\pictureViewer Gerasimov\pictureViewer Gerasimov\bin\Debug\pictureViewer Gerasimov.exe.config
+C:\Users\ilger\source\repos\pictureViewer Gerasimov\pictureViewer Gerasimov\bin\Debug\pictureViewer Gerasimov.exe
+C:\Users\ilger\source\repos\pictureViewer Gerasimov\pictureViewer Gerasimov\bin\Debug\pictureViewer Gerasimov.pdb
+C:\Users\ilger\source\repos\pictureViewer Gerasimov\pictureViewer Gerasimov\obj\Debug\pictureViewer Gerasimov.csproj.AssemblyReference.cache
+C:\Users\ilger\source\repos\pictureViewer Gerasimov\pictureViewer Gerasimov\obj\Debug\pictureViewer_Gerasimov.Form1.resources
+C:\Users\ilger\source\repos\pictureViewer Gerasimov\pictureViewer Gerasimov\obj\Debug\pictureViewer_Gerasimov.Properties.Resources.resources
+C:\Users\ilger\source\repos\pictureViewer Gerasimov\pictureViewer Gerasimov\obj\Debug\pictureViewer Gerasimov.csproj.GenerateResource.cache
+C:\Users\ilger\source\repos\pictureViewer Gerasimov\pictureViewer Gerasimov\obj\Debug\pictureViewer Gerasimov.csproj.CoreCompileInputs.cache
+C:\Users\ilger\source\repos\pictureViewer Gerasimov\pictureViewer Gerasimov\obj\Debug\pictureViewer Gerasimov.exe
+C:\Users\ilger\source\repos\pictureViewer Gerasimov\pictureViewer Gerasimov\obj\Debug\pictureViewer Gerasimov.pdb
+C:\Users\ilger\source\repos\pictureViewer Gerasimov\pictureViewer Gerasimov\obj\Debug\pictureViewer_Gerasimov.AboutBox1.resources
